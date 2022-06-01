@@ -1,0 +1,117 @@
+{
+  "mod_elements": [
+    {
+      "name": "MaramPickaxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maram_pickaxe"
+    },
+    {
+      "name": "MaramAxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maram_axe"
+    },
+    {
+      "name": "MaramSword",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maram_sword"
+    },
+    {
+      "name": "MaramShovel",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maram_shovel"
+    },
+    {
+      "name": "MaramHoe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maram_hoe"
+    },
+    {
+      "name": "MaramPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maram_pickaxe_recipe"
+    },
+    {
+      "name": "MaramAxeRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maram_axe_recipe"
+    },
+    {
+      "name": "MaramSwordRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maram_sword_recipe"
+    },
+    {
+      "name": "MaramShovelRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maram_shovel_recipe"
+    },
+    {
+      "name": "MaramHoeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maram_hoe_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.dirtylavat.maram_sword": "Maram Sword",
+      "item.dirtylavat.maram_shovel": "Maram Shovel",
+      "item.dirtylavat.maram_axe": "Maram Axe",
+      "item.dirtylavat.maram_hoe": "Maram Hoe",
+      "item.dirtylavat.maram_pickaxe": "Maram Pickaxe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "dirtylavat",
+    "modName": "DIRTYLAVAT",
+    "version": "1.0.0",
+    "author": "HARXINE, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.dirtylavat",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

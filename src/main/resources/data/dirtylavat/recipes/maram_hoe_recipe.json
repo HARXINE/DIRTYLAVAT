@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:potted_pink_tulip"
+    },
+    "1": {
+      "item": "minecraft:potted_pink_tulip"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dirtylavat:maram_hoe",
+    "count": 1
+  }
+}
