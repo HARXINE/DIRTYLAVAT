@@ -79,6 +79,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "maram_hoe_recipe"
+    },
+    {
+      "name": "MaramPickaxeRightclicked",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maram_pickaxe_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
